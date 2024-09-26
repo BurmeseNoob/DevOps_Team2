@@ -7,3 +7,6 @@
 
 Develop Build Status
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/BurmeseNoob/DevOps_Team2/main.yml?branch=develop)
+
+Release Build Status
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/BurmeseNoob/DevOps_Team2/main.yml?branch=release)
