@@ -5,8 +5,8 @@
 
 [![Releases](https://img.shields.io/github/release/BurmeseNoob/DevOps_Team2/all.svg?style=flat-square)](https://github.com/BurmeseNoob/DevOps_Team2/releases)
 
-Develop Build Status
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/BurmeseNoob/DevOps_Team2/main.yml?branch=develop)
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/BurmeseNoob/DevOps_Team2/<action name taken from main.yml>/<branch>?style=flat-square)
 
 Release Build Status
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/BurmeseNoob/DevOps_Team2/main.yml?branch=release)
