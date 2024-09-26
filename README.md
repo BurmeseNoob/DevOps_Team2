@@ -3,3 +3,4 @@
 
 [![LICENSE](https://img.shields.io/github/license/BurmeseNoob/DevOps_Team2.svg?style=flat-square)](https://github.com/BurmeseNoob/DevOps_Team2/blob/master/LICENSE)
 
+[![Releases](https://img.shields.io/github/release/BurmeseNoob/DevOps_Team2/all.svg?style=flat-square)](https://github.com/BurmeseNoob/DevOps_Team2/releases)
